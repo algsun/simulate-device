@@ -1,0 +1,33 @@
+{
+    "gateways": [
+        {
+            "status":"init",
+            "interval":"10",
+            "serverHost": "127.0.0.1",
+            "serverPort": 10000,
+            "siteId": 61011501,
+            "devices": [
+                {
+                    "deviceId": 10255,
+                    "parentId": 1,
+                    "deviceType": 1,
+                    "sequence": 1,
+                    "stateSequence": 1,
+                    "interval": 60,
+                    "control": 0,
+                    "voltage": 40,
+                    "rssi": -43,
+                    "lqi": 21,
+                    "workMode": 0,
+                    "connectionCount": 1,
+                    "serialNumber": 123456,
+                    "sensors": [],
+                    "thresholdAlarmState": 0,
+                    "thresholds": []
+                }
+            ]
+        }
+    ]
+}
+
+
